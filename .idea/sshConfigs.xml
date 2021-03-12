@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="170.75.170.239" id="ed7bf1cc-a16a-4533-8d1b-dc4a673fc69f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="centos" />
+      <sshConfig authType="PASSWORD" host="170.75.164.112" id="28f72632-da60-437e-b472-f67a98aea8b6" port="22" nameFormat="DESCRIPTIVE" username="centos" />
+    </configs>
+  </component>
+</project>
